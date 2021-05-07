@@ -1,0 +1,29 @@
+172.18.5.0/24
+2021:17c:ced1::/48
+
+Fizine ir Logine
+WEb svetaine
+POP/MDF
+IPv4 / IPv6
+VLSM
+6 routeriai
+kameros (1 kamera each room)
+
+1
+ Pirmas aukstas
+  12, 14 10
+ ANtras aukstas
+  16, 24
+2
+ Pirmas uakstas
+  18
+3 
+ Pirmas aukstas
+  6
+  35
+   temperaturos monitorius ir termostatas
+  serverine
+  3 + IoT
+  dumu detektoriai
+  judesio davikliai
+  visi davikliai irengti budetojo (3 + Iot) kambary

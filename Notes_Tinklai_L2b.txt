@@ -1,6 +1,53 @@
 172.18.5.0/24
 2021:17c:ced1::/48
 
+
+MTK
+ MTK1
+  12, 14 10
+ MTK2
+  16, 24
+Egz
+ 18
+Ism
+  6
+  35 + 2 (temp. mon. ir termostat)
+  3 (dumu, CO2, CO, judesio davikliai)
+  serverine
+  3 + IoT (visi Ism davikliai prijungti prie IoT)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Fizine ir Logine
 WEb svetaine
 POP/MDF

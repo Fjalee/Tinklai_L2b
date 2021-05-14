@@ -58,10 +58,19 @@ no sh
 
 en
 conf t
-ip def 172.18.5.97
+ip def 172.18.5.12
 int vl1
-ip add 172.18.5.98 255.255.255.224
+ip add 172.18.5.13 255.255.255.192
 no sh
+
+en
+conf t
+int f0/0
+ip add 172.18.5.1 255.255.255.192
+no sh
+
+
+
 
 
 
